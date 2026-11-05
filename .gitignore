@@ -1,0 +1,19 @@
+# Secrets (Wi-Fi details, laptop IP)
+firmware/obstacle_avoidance/secrets.h
+
+# Logged telemetry
+scan_log.csv
+*.csv
+
+# Build output / IDE
+build/
+.pio/
+.vscode/
+.idea/
+*.bin
+*.elf
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
